@@ -7,7 +7,7 @@ font-size: cover;
 color: aliceblue;
 }
 body {
-    background-image: url(temp.jpg);
+    background-color: white;
     height: 100%;
 background-repeat: no-repeat;
 background-size: cover;
